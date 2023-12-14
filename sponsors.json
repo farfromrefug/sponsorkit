@@ -20,6 +20,25 @@
   },
   {
     "sponsor": {
+      "login": "DickinsonSa",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/123304294?v=4",
+      "websiteUrl": null,
+      "linkUrl": "https://github.com/DickinsonSa",
+      "type": "User",
+      "avatarUrlHighRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAMAAAAOusbgAAAANlBMVEVMaXHw8PDw8PDw8PDw8PDw8PDw8PDw7uzw8PDw8PDdv5Xq4tbx8/bew5zcvZHdwJbcu47fxqGzWHqBAAAACnRSTlMAlxT/ZbQl+0DTyzN9FQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAtRJREFUeNrlm123rCAIhjNEdE+7mfP//+xZ87EmZ6JSQ7jY7309CwWkhGGoVvDeYUpEAEQpofM+DJ0VPCZglbAbffRIsCtCP4pj4xH1JfSiVFdGfdrtopixUCmUQMcEDUreBPtAn7F6dHBCrtnFPQGdEFDbeocEQP9+m3W9TIANSSXeI4h+559W3S4TNBj93N0z4PkOBnDVyywEhjTWc0XAkELV9sqBgWItVwhcSPZ5wpcBFzl3hA7gApsjdQEfksPnwSsHBgpFcSQP3o/n70NQEgzpKE/2Am9nzwh9wRCLHKsDeMPBmCpHGAx4lLF6gYHJYCNpgGlkPJqrm06BmTeuPTvy9dXPCfF1WFx51hnrSnW7TGkVwhrg+77H71DSAqfvnKUF/jAZNcH4laTVwJnJThe8xDLpgukzS+uB3xkbtcH4cTwogl9HhQdt8GutUR+Mi0/rgh9+HUAf/Mgh3gLsly3WBWNWXBaDr4xqwfezsbqwmxnVgmHxrWLwfGF0rQWHpZwuB08rQfmz7wK7Bdxcf+dgZwN272hSBuPyqaYLTnZgsgGTHRhswGAH/nt7/Pfi2Cxlmh0SZsdiBmarqZV4cO2zMSt9rre5RDcOXP1sWIo9uBSK+wVY/Wz+73QqFHdlW/tsygp6VeHGX9vu8tlHm6pi9pmqKco/zLW32GST/fa/+b4rPQ42a4071yD9fdrAr2n7aq+v3M7dns5KK7sX7l5n6hisanI6uMHVMZi9StUwWNHkeHhN3zuGd69xxcVc4+pkbLb1RiGkkO9J7L7YW90v3T07Fjeg9PZonW1Oe62nHRPYftNg6OZgFGoayQS5lS1setxHq688t6gTVt7mhsZMVe66de9kHFX0OkvGM9Y1lotlz7o2Z7GNpoYW/oDqyywV0dQ8LGE1rmA3oDE0TcKA2DSMzRDOYDd29DLbYtDq6eI2o2Uvu/eG6eLQWTLjg/8B0z4kPeEmZisAAAAASUVORK5CYII=",
+      "avatarUrlMediumRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAAPFBMVEVMaXHw8PDw8PDq4dTw8PDw8PDw8PDw8PDw8PDw8fHw8PDdv5XdvZLx9Pbr4dPgxqHcu47m1sDu7Ojn2sfPYqQEAAAACnRSTlMAbSDnSpS72AzqzjvF9wAAAAlwSFlzAAALEwAACxMBAJqcGAAAAgFJREFUeNrNmdGSgyAMRcUhBKJYtf//rzsV7WIrECQ7s/cZzyTciCF2XV5WKzCIjsghGlDadvdlNSB9CeEmVIOjhBzo6uAUUlaobBXOUVGOj9TOs+R4ifeGJqZW03PCo3WYR47mqRykBSJaHwNL4+qJILuT1tAGHHnAyRORyRD7UCt1QMLkRvZ7sVQCk8T+qOVaILlLon2/G9VAQpvy4ybwyhmgFiDBVz1TG5D0tcH3gR/GmIjn2cA1ApI5J7zGYkd4eipK2rppeEQamDo984xqR/lpHqJjhAuMH5kXr34D9BMbktK8eHeEqEgGSEeIKAXEd00LAffqBjkgBEvkgJstr7dYCrjlDJJA2DwWBGLXWZIEkg0HYQ44zpHGElB3qgAcH88l0lgAqnD0Z4DzEvdHUwkI4WgtL9zP3uI6s5ksCER5oJMFuo5kgSQPFE/5/7ssXtj7q5fq+z+BpXVwHA6PpJ4nYGmdOvVxAtLhgJWTDZ8AMeG5F24XfDTDAlsYPvRSCv0XyGYsmrM+2jlBj0PDKST1boklLREMUV1cRJt20F7f9Fot/r6a3ZRJXx7vOdKnr7ftCQu8gJAbETRvYHvtoM2OWZoNaSVmRksoy7vnjMkPOqurBxgDyRo7GFPTviJtzsj0FSTTG2RPs6XHzrzBePXovhcd3f/Fz4UDWvn74weEeNXmA2mf/gAAAABJRU5ErkJggg==",
+      "avatarUrlLowRes": "data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAP1BMVEVMaXHw8PDw8fHw8PDx8fLw8PDw8PDw8PDw8PDw8PDw8PDw8PDw8PDdv5XdvZLx9Pbhyafr4tXfxJ/n2MPk0rd1mBAoAAAADHRSTlMADDB87tlbmBy6q8c+JHxoAAAACXBIWXMAAAsTAAALEwEAmpwYAAABR0lEQVR42q2W2ZKEIAxFUVn1duvo/P+3ThGlW1mEWHMehVOQEANCJFhtnJKAVM5oK6rYQeGCGu6t3iDD2JdXyAokFVbSclvyrJvUOcNg3t4FfmeYROgcvPLK4hW4LjIm1BRMV8ehrlzX2VNVU87xaLQp+OTNynnnTqEJMpzPuB0sJWUJM46t9VhC/l8FwviKvXZGLMW5EStGigTNynsFfDQDTxmEEIqnKNoXS4GlY0yUQgZJ0VQribIe5BRDBRkpNELkBpyPnqcoIbmKFOAqeKI82NiD8I8kX3rQWTl9Dkn2R/kTE5TcgKGCmWOCkhvQVJYsLBU/B7X/YhyG/Udm7su3Cwbj0ZQY9OeO3IT5NNhW49NgQxuvo+PLonlb3yuphksvvgpTl16vlTW6zCXeHsf3qXCTXZ1/XnTFhYz9v2fPo8dV0xPuD7SrYxV7nV6VAAAAAElFTkSuQmCC"
+    },
+    "isOneTime": true,
+    "monthlyDollars": 30,
+    "privacyLevel": "PUBLIC",
+    "tierName": "$30 one time",
+    "createdAt": "2023-12-13T20:35:48Z",
+    "provider": "github"
+  },
+  {
+    "sponsor": {
       "login": "CatchABus",
       "name": "Dimitris-Rafail Katsampas",
       "avatarUrl": "https://avatars.githubusercontent.com/u/55595100?u=e3fe55ec32451c8b25eca1cc2a83d0e3cf2cb670&v=4",
