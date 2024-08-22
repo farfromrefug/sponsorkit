@@ -12,6 +12,13 @@ const past: BadgePreset = {
 }
 
 export default defineConfig({
+  github: {
+    login: 'farfromrefug',
+    type: 'user',
+  },
+  patreon: {
+    login: 'farfromrefuge'
+  },
   tiers: [
     {
       title: 'Past Sponsors',
