@@ -67870,7 +67870,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 5,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$5 one time",
     "createdAt": "2025-07-09T18:59:56Z",
